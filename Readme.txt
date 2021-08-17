@@ -1,6 +1,8 @@
-Thanks for downloading this template!
+Link to task one in ./Print_name folder : 
 
-Template Name: Kelvin
-Template URL: https://templatemag.com/kelvin-bootstrap-resume-template/
-Author: TemplateMag.com
-License: https://templatemag.com/license/
+
+project Name: HNG task for stage two
+Project live URL: 
+Author: BobbyDev
+Email: idrisloove@gmail.com
+
